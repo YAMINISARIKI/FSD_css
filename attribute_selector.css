@@ -1,0 +1,34 @@
+div{
+	color: black;
+	font-family: bradley hand itc;
+	background-color: grey;
+	font-size: 50px;
+	height: 100px;
+	width: 1500px;
+}
+h3{
+   color: white;
+   font-family: bold;
+}
+h5{
+	color: white;
+	font-family: sans-serif;
+}
+input[type="text"]{
+	color: blue;
+	
+}
+input[type="number"]{
+	color: pink;
+	
+}
+a[href]{
+	background-color: grey;
+}
+img[src]{
+	height: 50px;
+	width: 50px;
+}
+body{
+	background-image: url("harry.jpg");
+}

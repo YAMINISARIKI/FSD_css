@@ -1,0 +1,20 @@
+a:visited{
+	color: purple;
+}
+a:hover{
+	color: blue;
+}
+a:active{
+	color: solid pink;
+}
+div{
+	height: 200px;
+	width: 200px;
+	background-image: url("harry.jpg");
+}
+div:hover{
+    height: 1000px;
+    width: 1000px;
+    
+    background-image: url("harry.jpg");
+}

@@ -1,0 +1,13 @@
+CSS(cascading style sheet)
+--------------------------
+there are 3 types:
+1.Inline styling
+2.Internal styling
+3.External styling (both html file and linking file of this html file should be saved in same folder)
+---------selectors in CSS---------
+->by using class name (represented with '.' ->.classname ex:".abc")
+->by using id name (represented with '#' ->#classname ex:"#abc")
+->by using element name (represented with tag name directly ex: for <p> --> p{} is used)
+->universal selectors(represented with "*" ex:*{} , here the fonts given in universal selector is applicable for whole tags present in html page.)
+->attribute selectors
+->pseudo selectors

@@ -1,0 +1,13 @@
+body{
+	background-image: url("harry.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.ac{
+	color: white;
+}
+div{
+	background-image: url("xinxin2.webp");
+	height: 300px;
+	width: 300px;
+}

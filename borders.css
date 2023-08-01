@@ -1,0 +1,56 @@
+h1{
+	border-style: solid;
+	border-width: 5px;
+	border-color: darksalmon turquoise tomato springgreen;
+	border-top-style: ridge;
+	border-right-style: groove;
+	border-bottom-style: dotted;
+	border-left-style: inset;
+}
+.aaa{
+	border-style: double;
+	border-width: 10px;
+	border-color: papayawhip plum powderblue seagreen;
+	border-top-style: dotted;
+	border-right-style: groove;
+	border-bottom-style: ridge;
+	border-left-style: inset;
+}
+.twist{
+	border-image: url("harry.jpg");
+	font-family: bradley hand itc;
+	font-size: 25px;
+}
+img{
+	height: 150px;
+	width: 150px;
+	border-radius: 5px;
+}
+#xxx{
+	border: 10px ridge plum; /* shorthand properties=> border: mesurement style color*/
+}
+#ppp{
+	border-color: seagreen;
+	border-top-style: dotted;
+	border-bottom-style: dotted;
+	border-radius: 15px;
+}
+span{
+	border-radius: 50%;
+	border:5px solid turquoise;
+}
+.www{
+	background-color: lightgrey;
+	border-width: 10px;
+	border : 10px dotted red;
+}
+#ttt{
+	outline: 10px dotted orange;
+
+}
+#ooo{
+	outline: 15px dashed maroon;
+}
+#rrr{
+	outline: 15px dashed maroon;
+}
